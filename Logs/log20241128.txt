@@ -1,0 +1,12 @@
+2024-11-28 10:19:17.042 +01:00 [INF] Now listening on: http://localhost:5063
+2024-11-28 10:19:17.467 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-11-28 10:19:17.474 +01:00 [INF] Hosting environment: Development
+2024-11-28 10:19:17.480 +01:00 [INF] Content root path: C:\Users\muham\source\repos\TestApi\TestApi
+2024-11-28 10:19:18.309 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5063/swagger/index.html - null null
+2024-11-28 10:19:19.132 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5063/swagger/index.html - 200 null text/html;charset=utf-8 833.2375ms
+2024-11-28 10:19:19.300 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5063/_framework/aspnetcore-browser-refresh.js - null null
+2024-11-28 10:19:19.321 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5063/_framework/aspnetcore-browser-refresh.js - 200 13750 application/javascript; charset=utf-8 21.0587ms
+2024-11-28 10:19:26.014 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5063/_vs/browserLink - null null
+2024-11-28 10:19:26.552 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5063/_vs/browserLink - 200 null text/javascript; charset=UTF-8 537.7989ms
+2024-11-28 10:19:29.194 +01:00 [INF] Request starting HTTP/1.1 GET http://localhost:5063/swagger/v1/swagger.json - null null
+2024-11-28 10:19:29.593 +01:00 [INF] Request finished HTTP/1.1 GET http://localhost:5063/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 399.3365ms
